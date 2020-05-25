@@ -1,8 +1,7 @@
-Hello World!
-
 ---
 title: Ein Beispiel mit Bild
 ---
+Hello World!
 
 ## Der Blick aus dem Fenster 
 
