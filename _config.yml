@@ -1,4 +1,5 @@
-title: GitHub Pages Beispiel 
+title: Koch und Backbuch
 sass:
         sass_dir: _sass
         style: compressed
+        theme: jekyll-theme-hacker
