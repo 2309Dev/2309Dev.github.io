@@ -1,7 +1,6 @@
 ---
-title: Ein Beispiel mit Bild
+title: Mein Koch- und Backbuch
 ---
-Hello World!
 
 ## Der Blick aus dem Fenster 
 
