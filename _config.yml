@@ -3,3 +3,5 @@ sass:
         sass_dir: _sass
         style: compressed
         theme: jekyll-theme-hacker
+
+theme: jekyll-theme-leap-day
